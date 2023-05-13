@@ -1,0 +1,335 @@
+.bc{
+    /* background-color:skyblue; */
+    /* background-color: #4e6c6e; */
+    background-color: #eef3f6;
+    padding: 9%;font-family:sans-serif;
+
+    float: left;
+}   
+.bc h2
+{margin-left: 51%;
+    margin-top: -34%;
+    /* margin-top: -12% */
+    font-size: 50px;
+}
+.bc p
+{margin-left: 51%;
+    /* margin-bottom: -12% */
+    text-align: justify;
+}
+.img{ 
+    
+    width: 532px;
+    /* height: 381px;  */
+    height: 421px;
+    margin-left: 132px;
+    padding-bottom: 12%;
+    background-color: #e7f1f2;}
+    
+    .bc button{
+        background-color: rgb(187, 55, 15);
+        color: white;
+        border: none;
+        cursor: pointer;
+        padding: 2%;
+       
+    }
+    
+.about{
+    padding: 10%;
+    background-color: #292d33;
+    color: white;
+    
+    padding-top: 58%;
+    
+}
+.about h3{
+    /* margin-top: 3%; */
+}
+.about button{
+background-color: rgb(255, 30, 0);
+color: white;
+padding: 8px;
+margin: 5%;
+}
+.about img{
+    /* float: left; */
+    margin-left: 48%;
+    margin-top: -30%;
+}
+.about p{float: left;
+line-height: 25px;
+text-align: justify;}
+.wehelp{
+    text-align: center;
+    font-family: sans-serif;
+}
+.wehelp h2{
+    font-size: 50px;
+
+}
+.wehelp img {
+    width:50%;
+}
+.wework{
+    background-color: grey;
+}
+.wework p{
+    /* margin-right:35px; */
+    /* margin-left: 52%; */
+    /* padding-bottom: 5%; */
+    /* line-height: 25px; */
+    margin-left: 52%;
+    padding-bottom: 5%;
+    line-height: 28px;
+    padding-top: 3%;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+
+.wework h2{
+     
+    padding-top: 4%;
+    padding-left: 29%;
+    float: left;
+    padding: 5%;
+    margin-left: 12%;
+    margin-top: 0%;
+    font-size: 40px;
+    font-family: sans-serif;
+    line-height: 50px;
+}
+.wework button{
+    background-color: #292d33;
+    color: white;
+    cursor: pointer;
+    /* font-size: larger; */
+    font-weight: bold;
+    font-weight: bold;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+.fs h2{margin-left: 34%;
+    font-size: 48px;
+    font-family: sans-serif;}
+
+    .fs img{
+        height: 35%;
+    width: 45%;
+    margin-left: 29%;
+}
+.fs h6{
+    margin-left: 48%;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+    
+
+.creative{
+background-color: rgb(41 45 51);
+    color: white;
+}
+.creative h2{
+    color: white;
+    text-align: center;
+    padding: 3%;
+    font-size: 47px;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+.creative p {
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    line-height: 35px;
+}
+.creative h6{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 88%;
+    font-weight: 400;
+    font-family: system-ui;
+    /* font-style: italic; */
+    /* line-height: 35px; */
+}
+.creative img{
+    margin-left: 21%;
+    width: 49%;
+
+}
+.creative button{
+    margin-left: 43%;
+    margin-bottom: 3%;
+    color: white;
+    background-color: #292d33;
+    border: solid 1px;
+    padding: 13px;
+    cursor: pointer;
+}
+
+.whatdo{
+  background-color: #eef3f6; 
+  padding-bottom: 3%;
+}
+.whatdo h2{
+    text-align: center;
+    padding: 21px;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.whatdo h6{
+    text-align: center;
+    /* padding: 21px; */
+    font-size: 12px;
+    /* font-weight: bold; */
+    font-family: sans-serif;
+    font-style: italic;
+}
+.l1{
+    padding: 5%;
+    font-family: sans-serif;
+    line-height: 24px;
+}
+.l1{
+    background-color: white;
+    /* border: solid 2px;  */
+       margin: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 1%;
+}
+.lorem
+{
+    color: rgb(255, 0, 43);
+    font-weight: bold;
+}
+.l1 button{
+    /* margin-left: 43%; */
+    margin-bottom: 3%;
+    color: white;
+    background-color: #292d33;
+    border: solid 1px;
+    padding: 13px;
+    cursor: pointer;
+    font-family: monospace;
+}
+.l2{
+    background-color: white;
+    /* border: solid 2px;     */
+    margin: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 1%;font-family: sans-serif;
+}
+.l3{
+    background-color: white;
+    /* border: solid 2px;     */
+    margin: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 1%;font-family: sans-serif;
+    
+
+}
+
+.l4{
+    background-color: white;
+    /* border: solid 2px;     */
+    margin: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 1%;font-family: sans-serif;
+}
+.l5{
+    background-color:
+     white;
+     /* border: solid 2px;   */
+       margin: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 1%;font-family: sans-serif;
+}
+.l6{
+    background-color: white;
+    /* border: solid 2px;     */
+    margin: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+     padding: 1%;font-family: sans-serif;
+}
+    
+
+.contactus{
+  background-color: #292d33;
+    color: white;
+}
+.contactus img{
+/* float: left; */
+/* margin-left: 36%; */
+/* float: left; */
+margin-left: 45%;
+margin-top: -18%;
+width: 24%;
+}
+
+
+.message button{
+    
+    color: white;
+    background-color: #292d33;
+    padding: 5%;
+    padding-bottom: 7%;
+    padding-right: 23%;
+    /* padding-left: 27%; */
+    text-align: center;
+    border: solid 1px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.contactus h2{
+    margin-left: 18%;
+    padding-top: 9%;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+.contactus p{
+    margin-left: 18%;
+    /* padding-top: 9%; */
+    line-height: 28px;
+    font-family: sans-serif;
+}
+.placeholders{
+    float: right;
+    margin-top: -22%;
+    margin-right: 18%;
+}
+.placeholders input{
+    padding: 10%;
+    padding-left: 18%;
+}
+.message{padding-bottom: 53%;}
+.st{
+    background-color: #4c4d4e;
+    color: white;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    padding-left: 35%;
+}
+.st h5{
+    line-height: 25px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.st h6{
+    /* line-height: 25px; */
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 100;
+    margin-left: 2%;
+}
